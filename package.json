@@ -1,0 +1,11 @@
+{
+  "name": "pgmais",
+  "version": "1.0.0",
+  "description": "<p>Este repositório tem o propósito de antender as espectativas do Teste Dev solicitado pela PG Mais</p> <p>Consiste em uma página <i>web</i> onde é possível relizar upload de um arquivo .txt ou .csv para realizar uma validação dos dados seguindo algumas regras.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "qunit"
+  },
+  "author": "David nunes dos Santos",
+  "license": "ISC"
+}
