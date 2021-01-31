@@ -181,7 +181,7 @@ function readFile() {
  * @param {DataSend} data_send Dados de uma mensagem
  */
 function validateData(data_send) {
-	validator.validate(data_send);
+	validator.validate(data_send, valid);
 
 	if (data_send.dadosValidos) {
 		if (valid[data_send.numeroCompleto]) {
