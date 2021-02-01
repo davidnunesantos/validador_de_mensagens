@@ -61,7 +61,7 @@
 
 <h2 id="como_testar">Como realizar testes unitários</h2>
 <p>Você pode acessar os testes unitários clicando <a href="https://davidnunesantos.github.io/pgmais/testes.html">aqui</a>.</p>
-<p>Ou então você pode fazer o download desse repositório e testar em sua máquina local, para isso você precisará ter o NodeJS instalado em sua máquina, caso já tenha, basta abrir em um navegador <i>web</i> o arquivo <i>testes.html</i> que encontra-se na raiz do projeto.</p>
+<p>Ou então você pode fazer o download desse repositório e testar em sua máquina local, basta abrir em um navegador <i>web</i> o arquivo <i>testes.html</i> que encontra-se na raiz do projeto. Os testes são realizados utilizando a biblioteca QUnit, que disponibiliza os resultados em uma página HTML.</p>
 
 <h2 id="tecnologias">Tecnologias utilizadas</h2>
 <p>As seguintes tecnologias foram utilizadas na construção do projeto:</p>
